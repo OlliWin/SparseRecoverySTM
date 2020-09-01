@@ -5,7 +5,6 @@
 %ADD SPGL1 AND TOOLKIG FOR COMPRESSED SENSING TO YOUR MATLAB WORKING
 %DIRECTORY
 addpath('spgl1-2.1');
-addpath('ToolkitCompressedSensing');
 
 %% SIMULATION 1.B
 % initialize variables
