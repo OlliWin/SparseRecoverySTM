@@ -1,3 +1,4 @@
+% https://github.com/OlliWin
 classdef SamplingSystem < handle
 %This Class contains DataUnits and acts as a storage for the data
 
