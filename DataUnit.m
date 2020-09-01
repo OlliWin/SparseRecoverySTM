@@ -1,3 +1,5 @@
+% https://github.com/OlliWin
+
 classdef DataUnit < handle
     %  This Class is the basic unit of this toolkit. 
     %  A single DataUnit holds information of a particular sparse sample and the reconstruction of it 
