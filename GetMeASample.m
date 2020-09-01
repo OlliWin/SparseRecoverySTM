@@ -1,3 +1,4 @@
+% https://github.com/OlliWin
 classdef GetMeASample
     % This Class contains static methods, which return sparse sample and
     % corresponding locations, given the canonical signal, sampling rate,
